@@ -1,5 +1,5 @@
 # <a name="title">Taichi Voxel Challenge</a>
-Artwork Name: Numeral
+Artwork Name: Numerals
 
 <p align="center">
 <img src="demo.jpg" width="100%"></img>
