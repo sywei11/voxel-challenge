@@ -6,7 +6,6 @@ outputs
 imgui.ini
 .*.swp
 .idea
-screenshot/
 examples/
 todo.md
 pic/
