@@ -1,11 +1,30 @@
 # <a name="title">Taichi Voxel Challenge</a>
-
+Artwork Name: Numeral
 <p align="center">
-<img src="demo.jpg" width="75%"></img>
+<img src="demo.jpg" width="100%"></img>
 </p>
 
-> Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
+> Figure: result of `python main.py`. 
 
+## More Result
+
+<p align="center">
+<img src="screenshot\main.py-2022-05-14-183721.jpg" width="100%"></img>
+</p>
+
+<p align="center">
+<img src="screenshot\main.py-2022-05-14-183815.jpg" width="100%"></img>
+</p>
+
+> light = False
+
+<p align="center">
+<img src="screenshot\main.py-2022-05-14-184506.jpg" width="100%"></img>
+</p>
+
+> light = True
+
+---
 We invite you to create your voxel artwork, by putting your [Taichi](https://github.com/taichi-dev/taichi) code in `main.py`!
 
 Rules:
@@ -63,7 +82,3 @@ Mouse and keyboard interface:
 <a href="https://github.com/yuanming-hu/voxel-art"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/tree2.jpg" width="45%"></img></a> <a href="https://github.com/neozhaoliang/voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/desktop.jpg" width="45%"></img></a> 
 <a href="https://github.com/maajor/maajor-voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/earring_girl.jpg" width="45%"></img></a>  <a href="https://github.com/rexwangcc/taichi-voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/pika.jpg" width="45%"></img></a> 
 <a href="https://github.com/houkensjtu/qbao_voxel_art"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/yinyang.jpg" width="45%"></img></a>  <a href="https://github.com/ltt1598/voxel-challenge"><img src="https://github.com/taichi-dev/public_files/blob/master/voxel-challenge/lang.jpg" width="45%"></img></a> 
-
-## Show your artwork 
-
-Please put your artwork at the beginning of this README file. Replacing the `demo.jpg` file with your creation will do the job.
