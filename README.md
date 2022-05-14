@@ -1,10 +1,11 @@
 # <a name="title">Taichi Voxel Challenge</a>
 Artwork Name: Numeral
+
 <p align="center">
 <img src="demo.jpg" width="100%"></img>
 </p>
 
-> Figure: result of `python main.py`. 
+> Figure: result of `python3 main.py`. 
 
 ## More Result
 
