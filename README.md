@@ -16,6 +16,10 @@ Artwork Name: Numeral
 <img src="screenshot\main.py-2022-05-14-183815.jpg" width="100%"></img>
 </p>
 
+<p align="center">
+<img src="screenshot/main.py-2022-05-14-191045.jpg" width="100%"></img>
+</p>
+
 > light = False
 
 <p align="center">
